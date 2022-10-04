@@ -1,0 +1,1 @@
+<img width="241" alt="C program to find Factorial of a given number without using Recursion" src="https://user-images.githubusercontent.com/113232984/193770341-6a77ae8a-a884-4c1e-9cd9-444b8c67ec3b.png">
